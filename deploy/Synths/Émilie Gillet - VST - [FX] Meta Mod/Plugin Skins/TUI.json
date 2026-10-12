@@ -1135,7 +1135,7 @@
                     }
                 },
                 {
-                    "key": "WARPS|WARPS",
+                    "key": "META MOD|META MOD",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -1706,7 +1706,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "WARPS",
+                "tabName": "META MOD",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -1715,7 +1715,7 @@
                     "42 408 142 136",
                     "243 337 388 203"
                 ],
-                "componentName": "WARPS|WARPS",
+                "componentName": "META MOD|META MOD",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             }
